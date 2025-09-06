@@ -1,0 +1,13 @@
+{
+  "name": "myvent-server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "ws": "^8.17.0",
+    "nanoid": "^5.0.7"
+  }
+}
